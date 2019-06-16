@@ -155,12 +155,17 @@ pre {
   width: 16px;
   height: 16px;
   display: inline-block;
-  fill: #828282;
+  fill: #4717F6;
   padding-right: 5px;
   vertical-align: text-top; }
 
 .social-media-list li + li {
   padding-top: 5px; }
+
+.profile-img {
+  content:url("img/profile.png");
+  padding-bottom: 30px;
+}
 
 /**
  * Tables
@@ -330,7 +335,7 @@ table {
 
 .post-meta {
   font-size: 14px;
-  color: #828282; }
+  color: #E7DFDD; }
 
 .post-link {
   display: block;
@@ -508,3 +513,14 @@ table {
     color: #008080; }
   .highlight .il {
     color: #099; }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.round {
+  border-radius: 50%;
+}
