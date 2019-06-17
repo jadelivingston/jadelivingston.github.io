@@ -154,6 +154,8 @@ pre {
   width: 16px;
   height: 16px;
   display: inline-block;
+  padding-right: 8px;
+  padding-left: 8px;
   fill: #4717F6;
   vertical-align: text-top; }
 
@@ -201,8 +203,8 @@ table {
   font-weight: 300;
   line-height: 54px;
   letter-spacing: -1px;
-  margin: 2px;
-  padding: 2px;
+  margin: 4px;
+  padding: 4px 8px 4px 8px;
   border: 2px solid #4717F6;
   float: middle; }
   .site-title, .site-title:visited {
