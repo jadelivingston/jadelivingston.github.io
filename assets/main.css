@@ -203,10 +203,15 @@ table {
   font-weight: 300;
   line-height: 54px;
   letter-spacing: -1px;
+<<<<<<< HEAD
   margin: 4px;
   padding: 4px 8px 4px 8px;
   border: 2px solid #4717F6;
   float: middle; }
+=======
+  margin-bottom: 0;
+  float: left; }
+>>>>>>> parent of 00db8b0... Update main.css
   .site-title, .site-title:visited {
     color: #4717F6; }
 
