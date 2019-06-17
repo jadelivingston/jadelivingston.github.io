@@ -208,11 +208,12 @@ table {
     color: #4717F6; }
 
 .heading {
-  font-size: 64px;
+  font-size: 15rem;
   color: #4717F6;
   padding: 8px 16px 8px 16px;
   text-align: center;
   border: 3px solid #4717F6;
+  margin: auto;
 }
 
 .site-nav {
