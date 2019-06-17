@@ -79,6 +79,7 @@ h1, h2, h3, h4, h5, h6 {
 a {
   color: #4717F6;
   text-decoration: none; }
+  a:visited {
     color: #4717F6; }
   a:hover {
     color: #A239CA;
@@ -205,6 +206,7 @@ table {
   line-height: 54px;
   letter-spacing: -1px;
 <<<<<<< HEAD
+<<<<<<< HEAD
   margin: 4px;
   padding: 4px 8px 4px 8px;
   border: 2px solid #4717F6;
@@ -213,6 +215,11 @@ table {
   margin-bottom: 0;
   float: left; }
 >>>>>>> parent of 00db8b0... Update main.css
+=======
+  margin-bottom: 0;
+  border: 2px solid #4717F6;
+  float: left; }
+>>>>>>> parent of aa2d182... Update main.css
   .site-title, .site-title:visited {
     color: #4717F6; }
 
